@@ -1,5 +1,7 @@
 ## Hi there 👋
+Here are some ideas to get you started:
 
+- 🔭 I’ve built an ecommerce website of women`s shoes - check it out [here](https://adrielle.vercel.app/) and an admin panel for this website - check it out [here](https://admin-panel-lemon-two.vercel.app/)! 
 <!--
 **IamAdri/IamAdri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
