@@ -6,6 +6,8 @@ I am a self learner who got so enthusiastic of starting a carrier in programming
 - 📖 So far I`ve learned HTML, CSS, JavaScript, React, Next.js, Supabase, Tailwind.
 - 👯 I’m looking to gain as much experience as possible along with a great team in creating complex and interactive websites!
 - 📫 How to reach me: atoma304@gmail.com
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamAdri)](https://github.com/IamAdri/github-readme-stats)
 <!--
 **IamAdri/IamAdri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
