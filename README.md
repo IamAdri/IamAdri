@@ -1,8 +1,10 @@
 ## Hi there 👋
 I am a self learner who got so enthusiastic of starting a carrier in programming that there is no way back anymore😉
 
-- 💥 I’ve built an ecommerce website of women`s shoes - check it out [here](https://adrielle.vercel.app/)
-- 🤔 What would come in handy with an ecommerce website? Right, an admin panel - check it out [here](https://admin-panel-lemon-two.vercel.app/)! 
+- 💥 I’ve built an ecommerce website of women`s shoes - check it out [here](https://adrielle.vercel.app/)!
+- 🤔 What would come in handy with an ecommerce website? Right, an admin panel - check it out [here](https://admin-panel-lemon-two.vercel.app/)!
+- 📖 So far I`ve learned HTML, CSS, JavaScript, React, Next.js, Supabase, Tailwind.
+- 📫 How to reach me: atoma304@gmail.com
 <!--
 **IamAdri/IamAdri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
