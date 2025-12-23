@@ -3,7 +3,6 @@ I am a self learner who got so enthusiastic of starting a carrier in programming
 
 - 💥 I’ve built an ecommerce website of women`s shoes - check it out [here](https://adrielle.vercel.app/)!
 - 🤔 What would come in handy with an ecommerce website? Right, an admin panel - check it out [here](https://admin-panel-lemon-two.vercel.app/)!
-- 📖 So far I`ve learned HTML, CSS, JavaScript, React, Next.js, Supabase, Tailwind.
 - 👯 I’m looking to gain as much experience as possible along with a great team in creating complex and interactive websites!
 - 📫 How to reach me: atoma304@gmail.com
 
