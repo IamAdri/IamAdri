@@ -7,7 +7,7 @@ I am a self learner who got so enthusiastic of starting a carrier in programming
 - 👯 I’m looking to gain as much experience as possible along with a great team in creating complex and interactive websites!
 - 📫 How to reach me: atoma304@gmail.com
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamAdri)](https://github.com/IamAdri/github-readme-stats)
+- [![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamAdri)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **IamAdri/IamAdri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
