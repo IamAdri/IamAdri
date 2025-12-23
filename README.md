@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a self learner that got so enthusiastic of starting a carrier in programming that there is no way back anymore😉
+I am a self learner who got so enthusiastic of starting a carrier in programming that there is no way back anymore😉
 
 - 💥 I’ve built an ecommerce website of women`s shoes - check it out [here](https://adrielle.vercel.app/)
 - 🤔 What would come in handy with an ecommerce website? Right, an admin panel - check it out [here](https://admin-panel-lemon-two.vercel.app/)! 
