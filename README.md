@@ -1,5 +1,5 @@
 ## Hi, I'm Adriana 👋
-I am a self learner who got so enthusiastic of starting a career in programming that there is no way back anymore😉
+I am a self learner who got so enthusiastic of starting a career as a frontend developer that there is no way back anymore😉
 
 - 💥 I’ve built a **demo e-commerce website** - check it out [here](https://adrielle.vercel.app/)!
 - 🤔 What would come in handy with an e-commerce website? Right, a **demo admin panel** - check it out [here](https://admin-panel-lemon-two.vercel.app/)!
