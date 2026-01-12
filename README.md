@@ -1,5 +1,5 @@
 ## Hi, I'm Adriana 👋
-**Junior Front-End Developer passionate about bulding responsive and clean websites. I enjoy turining ideas into interactive websites!**
+**Junior Front-End Developer passionate about turning ideas into responsive and clean websites!**
 
 - 💥 I’ve built a **demo e-commerce website** - check it out [here](https://adrielle.vercel.app/)!
 - 🤔 What would come in handy with an e-commerce website? Right, a **demo admin panel** - check it out [here](https://admin-panel-lemon-two.vercel.app/)!
